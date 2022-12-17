@@ -2,10 +2,11 @@
 
 #  *Bem-vindos ao repositório: Formação Machine Learning Specialist*
 
-## Neste local, você encontrará, os projetos elaborados durante a minha formação.
 </span>
 
 <span align="justify">
+
+## Neste local, você encontrará os projetos elaborados e certificados de conclusão dos módulos realizados durante a minha formação.
 
 O potencial ilimitado de algoritmos para Machine Learning, envolvendo modelos de Deep Learning e outras técnicas do estado-da-arte, só pode ser alcançado por meio de um profissional qualificado, para, o que existe de mais avançado no mercado.
 Os algoritmos de Machine Learning são usados nos principais ramos de TI: Robótica, Carros Autônomos, IoT, Sistemas Bancários e de Investimento, Segurança e Visão Computacional. 
